@@ -1,4 +1,4 @@
-# Prolog-Mini-PL-Interperter
+# Clojure-Mini-PL-Interperter
 Mini Programing Language Interpreter, built as an assignment in my Principals of Programing Languages class. This code should implement the following grammer: 
 
 LETTER = "a" | "b" | "c" | "d" | "e" | "f" | "g" | "h" | "i" | "j" | "k" | "l" | "m" | "n" | "o" | "p" | "q" | "r" | "s" | "t" | "u" | "v" | "w" | "x" | "y" | "z"; <br>
